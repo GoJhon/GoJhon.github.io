@@ -7,7 +7,6 @@
 
 @media screen and (max-width: 480px) {
     main{
-        border: 1px solid brown;
         height: auto;
         width: auto;
     }
